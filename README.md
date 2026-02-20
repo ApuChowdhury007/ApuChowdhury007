@@ -46,7 +46,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ApuChowdhury007">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
