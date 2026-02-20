@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm YOUR NAME
+  Hi 👋, I'm Apu Chowdhury
 </h1>
 
 <h3 align="center">
@@ -12,31 +12,44 @@
 
 ---
 
-## 🐍 About Me
-- 💻 Python Developer
-- 🚀 Building APIs & Automation
-- ⚡ Love clean & scalable code
+### 🧑‍💻 About Me
+- 🌱 I’m currently learning **Django & Flask**
+- 💻 I love building backend projects using **Python**
+- 🎯 Goal: Become a professional freelancer
+- 📫 How to reach me: apuchowdhury299@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80"/>
+### 🚀 Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
+### ✨ Fun Fact
+- ⚡ I believe consistency is the key to success!
+- 
+
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 ## 🔥 Animated Typing Effect
 
 <p align="center">
