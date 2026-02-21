@@ -22,8 +22,7 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-### 🚀 Skills & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,git,github,vscode" />
 </p>
