@@ -40,7 +40,6 @@
 
 ### ✨ Fun Fact
 - ⚡ I believe consistency is the key to success!
-- 
 
 
 ### 🌐 Connect with Me
